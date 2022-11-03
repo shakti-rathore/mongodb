@@ -31,7 +31,7 @@ function insertMany(obj){
   });
 }
 
-insertMany()
+insertMany(myobj)
 
 
 
